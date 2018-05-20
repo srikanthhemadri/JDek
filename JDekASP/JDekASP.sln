@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDekASP", "JDekASP\JDekASP.csproj", "{41F82779-946B-4D6D-9BF8-5C6348A8C60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F82779-946B-4D6D-9BF8-5C6348A8C60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F82779-946B-4D6D-9BF8-5C6348A8C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F82779-946B-4D6D-9BF8-5C6348A8C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F82779-946B-4D6D-9BF8-5C6348A8C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14ED31E0-0A90-4593-A115-31615956873B}
+	EndGlobalSection
+EndGlobal
